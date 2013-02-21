@@ -1,0 +1,9 @@
+#==================================================================
+# Bugs or Suggestions please mail to dev.guofeng@gmail.com
+#==================================================================
+
+mkbin.sh
+	script		the head script of the final binary.
+	data		the rest of the final binary, contain the data.
+	dest		the name of the final binary
+
